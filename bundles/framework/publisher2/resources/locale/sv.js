@@ -64,6 +64,7 @@ Oskari.registerLocalization(
             "maptools": {
                 "label": "Verktyg",
                 "tooltip": "Välj verktygen som visas på kartan. Du kan se deras placering på den förhandsvisade kartan.",
+                "AnnouncementsPlugin": "Aviseringar",
                 "ScaleBarPlugin": "Skalstock",
                 "TimeseriesControlPlugin": "Tidseriespelare",
                 "IndexMapPlugin": "Indexkarta",
@@ -279,6 +280,13 @@ Oskari.registerLocalization(
             "tooltips": {
                 "publishable": "Visa endast kartlager som kan publiceras med kart publicering funktion"
             }
+        },
+        "announcementsTool": {
+            "buttonLabel": "Välja aviseringar",
+            "popup": {
+                "title": "Aviseringar",
+                "close": "Stäng"
+            },
         },
         "guidedTour": {
             "title": "Skapa karta",

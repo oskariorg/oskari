@@ -64,6 +64,7 @@ Oskari.registerLocalization(
             "maptools": {
                 "label": "Tools",
                 "tooltip": "Select available map tools. Check a placement in the map preview.",
+                "AnnouncementsPlugin": "Announcements",
                 "ScaleBarPlugin": "Scale bar",
                 "TimeseriesControlPlugin": "Time series player",
                 "IndexMapPlugin": "Index map",
@@ -279,6 +280,13 @@ Oskari.registerLocalization(
             "tooltips": {
                 "publishable": "Show only publishable map layers."
             }
+        },
+        "announcementsTool": {
+            "buttonLabel": "Select announcements",
+            "popup": {
+                "title": "Announcements",
+                "close": "Sulje"
+            },
         },
         "guidedTour": {
             "title": "Map Publishing",
